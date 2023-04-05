@@ -26,7 +26,7 @@
 
 </div><br>
 
-Meus hobbies são: tecnologia,musculação,séries e games.
+Meus hobbies são: tecnologia,séries e games.
 
 ## Email para contado 
 
