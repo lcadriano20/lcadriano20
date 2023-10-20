@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Adriano Carvalho 🖐️
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-carvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/adriano-carvalho-76127a251/)
 
 
 ![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcadriano20&show_icons=true&theme=onedark)
