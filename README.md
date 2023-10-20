@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-carvalho-76127a251)
 
 
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
-
 ![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcadriano20&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu estudo/uso
