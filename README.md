@@ -1,4 +1,4 @@
-### Olá! Eu sou o Adriano Carvalho 🖐️
+### Olá! Eu sou o Adriano Carvalho
 
 
 
